@@ -34,3 +34,7 @@ Coinb.in supports a number of key features such as:
 - Transaction rebuild support for RBF and double spending.
 
 Donate to 33tht1bKDgZVxb39MnZsWa8oxHXHvUYE4G to see more development!
+
+## Changes
+
+Default branch to gh-pages
